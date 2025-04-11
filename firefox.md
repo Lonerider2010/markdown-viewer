@@ -139,3 +139,7 @@ For example, content hosted on GitHub's `raw.githubusercontent.com` cannot be re
 - https://raw.githubusercontent.com/simov/markdown-syntax/main/README.md
 
 ---
+
+# Issues
+
+- [UTF-8 default · Issue #7 · simov/markdown-viewer](https://github.com/simov/markdown-viewer/issues/7)
